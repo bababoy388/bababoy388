@@ -24,7 +24,7 @@ me = AboutMe()
 print(me.say_hello())
 ```
 
-<h3 align="center">Мой стек технологий</h3>
+<h3>Мой стек технологий</h3>
 <p>🔧 Backend</p>
 <p>FastAPI • Django • Python </p>
 <p>🗄️ Базы данных</p>
