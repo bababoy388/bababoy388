@@ -22,6 +22,7 @@ class AboutMe:
 
 me = AboutMe()
 print(me.say_hello())
+```
 
 Мой стек технологий
 # 🔧 Backend  
